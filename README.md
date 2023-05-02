@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Bachelor of Computer Science |HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY (Sep 2018 – Present)		
+- Bachelor of Computer Science | HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY (Sep 2018 – Present)		
 		       		
 ## Work Experience
 [//]: # (**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
