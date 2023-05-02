@@ -1,32 +1,25 @@
-# DataScience-Portfolio
+<div align="center"> # DataScience-Portfolio </div>
 
-## Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-- Languages/Tools: Python, SQL
-- Libraries/Frameworks: Python, Tensorflow, Pytorch, Power BI
-- Data Analytics: Power BI
-- Machine Learning/Deep Learning: Classification, Regression, Clustering
-- Cloud Computing: Azure Databricks, AWS Sagemaker
+## TECHNICAL SKILLS
+- **Languages/Tools**: Python, SQL
+- **Libraries/Frameworks**: Python, Tensorflow, Pytorch, Power BI
+- **Data Analytics**: Power BI
+- **Machine Learning/Deep Learning**: Classification, Regression, Clustering
+- **Cloud Computing**: Azure Databricks, AWS Sagemaker
 
 ## EDUCATION
-- Bachelor of Computer Science | HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY (Sep 2018 – Present)		
-		       		
-[//]:## Work Experience
-[//]: # (**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-[//]:- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-[//]:- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-[//]:**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-[//]:- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-[//]:realistic, live-fire training scenarios
-[//]:- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY** (Sep 2018 – Present)  
+**Bachelor of Computer Science**  
+*Cumulative CPA*: 3.2/4.0  
+*Expected graduate*: Aug 2023
 
 
 ## PROJECTS
-### Evaluating Risk for Loan Approvals
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Evaluating Risk for Loan Approvals [![image](https://user-images.githubusercontent.com/102389548/235655723-c28f2ae0-5679-4462-b60e-98565995cef3.png)](https://github.com/namwasinyourheart/evaluating-risk-for-loan-approvals)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- Explored how multitask learning can be applied to some common NLP tasks such as POS tagging, chunking, and NER
+- Performed exploratory data analysis on the CoNLL-2003 English dataset, experimented with various combinations of BiRNN to gain insights, compare, and analyze the results
+- Utilized the public U.S airline sentiment dataset, scraped from Twitter for classifying tweets as positive, negative or neutral
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
