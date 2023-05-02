@@ -4,8 +4,10 @@
 
 ## EDUCATION
 ---
-**HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY**
+**HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY**  
 (Sep 2018 – Present)  
+
+
 **Bachelor of Computer Science**  
 *Cumulative CPA*: 3.2/4.0  
 *Expected graduate*: Aug 2023
