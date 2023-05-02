@@ -3,6 +3,7 @@
 
 
 ## EDUCATION
+---
 **HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY**
 (Sep 2018 – Present)  
 **Bachelor of Computer Science**  
@@ -11,6 +12,7 @@
 
 
 ## PROJECTS  
+---
 **Evaluating Risk for Loan Approvals** [![image](https://user-images.githubusercontent.com/102389548/235655723-c28f2ae0-5679-4462-b60e-98565995cef3.png)](https://github.com/namwasinyourheart/evaluating-risk-for-loan-approvals)  
 (Apr 2023)
 
@@ -25,6 +27,7 @@
 - Utilized the public U.S airline sentiment dataset, scraped from Twitter for classifying tweets as positive, negative or neutral  
 
 ## TECHNICAL SKILLS
+---
 - **Languages/Tools**: Python, SQL
 - **Libraries/Frameworks**: Python, Tensorflow, Pytorch, Power BI
 - **Data Analytics**: Power BI
@@ -32,6 +35,7 @@
 - **Cloud Computing**: Azure Databricks, AWS Sagemaker
 
 ## CERTIFICATIONS  
+---
 Google Project Management Certificate  
 Google Data Analytics Certificate  
 Stanford Machine Learning  
@@ -40,5 +44,6 @@ IBM Data Science
 Micorsoft certificate about: Azure, AI, Data Fundamentals  
 
 ## OTHERS  
+---
 **English**: TOEIC certificate with score 795 - issued by IIG (Mar 2023)
 
