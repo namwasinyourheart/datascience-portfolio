@@ -2,7 +2,8 @@
 
 ## Summary
 🎥 A one-minute [Introduction Video](https://www.youtube.com/watch?v=xKPk7tG2upc)  
-📄 PDF [Resume](https://docs.google.com/document/d/1Gzz5_Ao92uMuQuWVkEsHjvI0LlmRGrw5/edit?usp=sharing&ouid=103236394495199940331&rtpof=true&sd=true)
+📄 PDF [Resume](https://docs.google.com/document/d/1Gzz5_Ao92uMuQuWVkEsHjvI0LlmRGrw5/edit?usp=sharing&ouid=103236394495199940331&rtpof=true&sd=true)  
+🌐 [Blog](https://theaiedge.com)
 
 ## EDUCATION
 ---
