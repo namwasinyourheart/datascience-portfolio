@@ -21,15 +21,16 @@
 **Evaluating Risk for Loan Approvals** [![image](https://user-images.githubusercontent.com/102389548/235655723-c28f2ae0-5679-4462-b60e-98565995cef3.png)](https://github.com/namwasinyourheart/evaluating-risk-for-loan-approvals)  
 (Apr 2023)
 
-- Explored how multitask learning can be applied to some common NLP tasks such as POS tagging, chunking, and NER
-- Performed exploratory data analysis on the CoNLL-2003 English dataset, experimented with various combinations of BiRNN to gain insights, compare, and analyze the results
-- Utilized the public U.S airline sentiment dataset, scraped from Twitter for classifying tweets as positive, negative or neutral
 
 **Customer Transaction Value Prediction** [![image](https://user-images.githubusercontent.com/102389548/235655723-c28f2ae0-5679-4462-b60e-98565995cef3.png)](https://github.com/namwasinyourheart/evaluating-risk-for-loan-approvals)  
 (Apr 2023)  
-- Explored how multitask learning can be applied to some common NLP tasks such as POS tagging, chunking, and NER  
-- Performed exploratory data analysis on the CoNLL-2003 English dataset, experimented with various combinations of BiRNN to gain insights, compare, and analyze the results  
-- Utilized the public U.S airline sentiment dataset, scraped from Twitter for classifying tweets as positive, negative or neutral  
+
+**Techcombank Stock Price Prdiction**
+
+**Customer Segmentation**
+
+**Data Analytics with Power BI and Pandas**
+
 
 ## TECHNICAL SKILLS
 ---
